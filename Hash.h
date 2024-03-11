@@ -1,6 +1,6 @@
 // ASU CSE310 Assignment #5 Spring 2024
-// Name of Author:
-// ASU ID:
+// Name of Author: Raje Patil
+// ASU ID: 1231031453
 // Description: this is where you need to design functions on Hash hashTable,
 // such as hashInsert, hashDelete, hashSearch and hashDisplay
 // ---- is where you should add your own code
@@ -57,8 +57,8 @@ bool Hash::hashSearch(string model, string make, int vin)
 {
    bool found = false;
 
-   int hashValue = hashFunction(model + make + to_string(vin));
-   found = hashTable[hashValue].searchCar(vin);
+   int hashValue = hashFunction(model + make + to_string(vin));  //get the hashed value, the key first
+   found = hashTable[hashValue].searchCar(vin);	//if found we get true and the message is found is printed
 
    if (found == true)
    {
@@ -112,10 +112,13 @@ bool Hash::hashInsert(string model, string make, int vin, double price)
 //UTILIZES HASH FUNCTION*********
 bool Hash::hashDelete(string model, string make, int vin)
 {
-	int hashValue = hashFunction(model + make + to_string(vin)); //calculate hash value
-	bool del = hashTable[hashValue].deleteCar(vin); //call delete function from linked list file
+	//note: hash search was before any command because if i write it after bool del,
+	//it prints NOT found and deletes it, so a value was being overridden
+	hashSearch(model, make, vin); //check if it exists and let the user know if it is found
 
-	hashSearch(model, make, vin);
+	int hashValue = hashFunction(model + make + to_string(vin)); //calculate hash value : concatenates all car details 
+																//together and calling hash function to calculate the key
+	bool del = hashTable[hashValue].deleteCar(vin); //call delete function from linked list file
 
 	if(del==true)
 	{
@@ -124,7 +127,7 @@ bool Hash::hashDelete(string model, string make, int vin)
       cout << setw(18) << model
            << setw(18) << make
            << setw(8)  << vin
-           << " is deleted from hash table.\n" << endl;
+           << " is deleted from hash table." << endl;
       return true;
 	}
 
@@ -134,7 +137,7 @@ bool Hash::hashDelete(string model, string make, int vin)
       cout << setw(18) << model
            << setw(18) << make
            << setw(8)  << vin
-           << " is NOT deleted from hash table.\n" << endl;
+           << " is NOT deleted from hash table." << endl;
       return false;
 	}
 }
@@ -146,12 +149,12 @@ bool Hash::hashDelete(string model, string make, int vin)
 //CHANGED FROM INT TO VOID
 void Hash::hashLoadFactor()
 {
-    int actualLoad = 0;
+    double actualLoad = 0.0;
     int total = 0;
 
     for (int i = 0; i < m; i++)
     {
-        int currentLoad = hashTable[i].getSize();
+        double currentLoad = hashTable[i].getSize();
         if (currentLoad > actualLoad)
             actualLoad = currentLoad;
     }
@@ -163,6 +166,7 @@ void Hash::hashLoadFactor()
     // Set precision to display up to two decimal places
     cout << fixed << setprecision(2);
 
+    cout <<"\n";
     cout << "The ideal load factor is: " << idealLoadFactor << endl;
     cout << "My hash table real load factor is: " << actualLoad << endl;
     cout << "My hash table performance ratio is: " << performanceRatio << endl;
@@ -173,7 +177,7 @@ void Hash::hashDisplay()
 {
   for(int i=0; i < m ; i++)
   {
-	  cout << "\nHashTable[" << i <<"], size =" << hashTable[i].getSize() << endl;
+	  cout << "\nHashTable[" << i <<"], size = " << hashTable[i].getSize() << endl;
 	  hashTable[i].displayList();
   }
 }
@@ -183,6 +187,10 @@ void Hash::hashDisplay()
 //string key, the function should return the slot number
 //where we will hash the key to
 //HASH KEY DRIVER********
+//this function adds the ASCII value of all elements in the key, and then at the end adds the length of the key 
+//to this value, which is then moded by the size of the hash table
+//i started with analyzing Dr. Feng's output trying to reverse engineer it and 
+//this is the closest I could get with some values
 int Hash::hashFunction(string key)
 {
     int hashed = 0;
