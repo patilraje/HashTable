@@ -1,0 +1,8 @@
+create executable:
+~/cse310/assignment5$ g++ -std=c++11 -o prog Assignment5.cpp *.h
+
+run input files:
+./prog <A5input1.txt >myA5out1.txt
+./prog <A5input2.txt >myA5out2.txt
+./prog <A5input3.txt >myA5out3.txt
+./prog <A5input4.txt >myA5out4.txt
