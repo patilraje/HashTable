@@ -1,0 +1,349 @@
+19
+XK8,Jaguar,165408,3900.0
+XK8,Jaguar,129794,2720.0
+XK8,Jaguar,165147,3950.0
+XK8,Jaguar,165327,4600.0
+C-10,Chevrolet,33291,25000.0
+300-Series,Mercedes-Benz,140294,5010.0
+Thunderbird,Ford,161889,3150.0
+Mustang,Ford,136503,2030.0
+N66,Oldsmobile,41416,4110.0
+200-Series,Mercedes-Benz,116134,3050.0
+Karmann Ghia,Volkswagen,116133,920.0
+Passat,Volkswagen,131274,850.0
+Mustang,Ford,105651,6200.0
+Mustang,Ford,132281,41500.0
+3-Series,BMW,71334,2000.0
+Mustang,Ford,51180,14100.0
+Bel Air/150/210,Chevrolet,102536,23000.0
+Ram 3500,Dodge,102329,34000.0
+Bel Air/150/210,Chevrolet,49249,4200.0
+Power Wagon,Dodge,66877,15000.0
+Other,International Harvester,102221,6110.0
+N3000,Austin Healey,87061,6200.0
+F-350,Ford,72404,2130.0
+Charger,Dodge,121588,3000.0
+Mustang,Ford,1326,8650.0
+Other,Cadillac,91901,8200.0
+Malibu,Chevrolet,54860,600.0
+Corvette,Chevrolet,131464,7100.0
+Firebird,Pontiac,71362,2800.0
+Firebird,Pontiac,58216,2500.0
+Bel Air/150/210,Chevrolet,39425,26000.0
+Mustang,Ford,159715,6300.0
+Mustang,Ford,32080,6430.0
+Monte Carlo,Chevrolet,126322,10650.0
+Monte Carlo,Chevrolet,102867,9600.0
+Monte Carlo,Chevrolet,159144,17000.0
+N442,Oldsmobile,66971,6400.0
+Power Wagon,Dodge,122603,6360.0
+Beetle (Pre-1980),Volkswagen,130344,6500.0
+N150,International Harvester,123670,16000.0
+Ranchero,Ford,73591,720.0
+Camaro,Chevrolet,48143,12000.0
+Wrangler,Jeep,122601,10500.0
+Corvette,Chevrolet,89912,13700.0
+Wrangler,Jeep,89909,4500.0
+Grand Prix,Pontiac,108166,2080.0
+C/K Pickup 1500,Chevrolet,73586,6800.0
+Mustang,Ford,122806,12100.0
+Marauder,Mercury,152534,3500.0
+Mustang,Ford,45088,1030.0
+CJ,Jeep,13647,3250.0
+C-10,Chevrolet,151984,27600.0
+Devin Crosley,Other Makes,81245,6600.0
+Barracuda,Plymouth,149332,13280.0
+Camaro,Chevrolet,18176,1930.0
+Beetle - Classic,Volkswagen,88803,3050.0
+F-350,Ford,75800,10000.0
+Impala,Chevrolet,42405,560.0
+C-10,Chevrolet,1013,15100.0
+Fairmont,Ford,17667,1280.0
+H1,Hummer,90583,30100.0
+Grand Am,Pontiac,109930,610.0
+Titan,Nissan,109929,1080.0
+4C,Alfa Romeo,109824,41400.0
+Other Pickups,Chevrolet,146207,10000.0
+SL-Class,Mercedes-Benz,47269,6300.0
+Mondial,Ferrari,8670,185000.0
+Mustang,Ford,123240,28500.0
+Baja,Subaru,140773,1720.0
+Le Mans,Pontiac,140891,23500.0
+Ram 2500,Dodge,79902,7800.0
+IS,Lexus,93212,4200.0
+Mustang,Ford,1295,15000.0
+Other Pickups,Chevrolet,1297,15800.0
+Mustang,Ford,139779,32000.0
+Wrangler,Jeep,123157,44100.0
+Mustang,Ford,16265,12600.0
+Mustang,Ford,16264,17000.0
+Town Car,Lincoln,144927,4150.0
+M3,BMW,75758,7000.0
+Trans Am,Pontiac,82230,3000.0
+Malibu,Chevrolet,152133,20100.0
+Corvette,Chevrolet,95366,10500.0
+Seville,Cadillac,94313,5550.0
+Hornet,AMC,31668,9600.0
+Other Pickups,Chevrolet,149316,7700.0
+GTO,Pontiac,96819,5000.0
+Accord,Honda,118395,1160.0
+300ZX,Nissan,86290,1110.0
+Touareg,Volkswagen,145400,450.0
+Roadrunner,Plymouth,138219,10200.0
+Mustang,Ford,13696,3750.0
+GTO,Pontiac,13695,6000.0
+Mustang,Ford,108990,4500.0
+Challenger,Dodge,108784,25060.0
+Charger,Dodge,158107,8000.0
+DTS,Cadillac,121467,3500.0
+Explorer,Ford,151282,14500.0
+C1500,Chevrolet,151928,15500.0
+Tundra,Toyota,14523,12500.0
+Other Pickups,Chevrolet,9643,3750.0
+Cutlass,Oldsmobile,113595,6500.0
+Charger,Dodge,116329,5000.0
+Genesis,Hyundai,142084,2750.0
+Other,Dodge,3731,8360.0
+Mustang,Ford,28827,10000.0
+Camaro,Chevrolet,90857,4500.0
+Bronco,Ford,7805,970.0
+Accord,Honda,61535,1320.0
+Riviera,Buick,153904,10000.0
+Odyssey,Honda,118451,19500.0
+Mustang,Ford,51853,33000.0
+Ranger,Ford,4525,710.0
+Yukon,GMC,4333,1580.0
+Matrix,Toyota,3628,1580.0
+5-Series,BMW,4334,1010.0
+F-150,Ford,16682,2900.0
+Mustang,Ford,134576,5100.0
+F-350,Ford,19049,7370.0
+GTO,Pontiac,85457,7700.0
+Suburban,Chevrolet,142945,10560.0
+Impreza,Subaru,143064,6700.0
+3000GT,Mitsubishi,45724,2030.0
+SEDAN,CHEVROLET,112230,8000.0
+F-150,Ford,58226,15200.0
+Fleetwood,Cadillac,111691,9100.0
+Silverado 1500,Chevrolet,1047,12700.0
+Frontier,Nissan,71911,6200.0
+3-Series,BMW,158121,5200.0
+Charger,Dodge,801,9600.0
+Charger,Dodge,158023,41100.0
+Corvette,Chevrolet,89280,6100.0
+Silverado 1500,Chevrolet,119940,14000.0
+Other,Chevrolet,84981,540.0
+Thunderbird,Ford,100610,1730.0
+Bbody,DODGE CHARGER,100369,3930.0
+MGB,MG,135601,4500.0
+Cooper S,Mini,84574,1500.0
+Grand Prix,Pontiac,93351,1000.0
+Duster,Plymouth,94282,8500.0
+Blazer,Chevrolet,68275,20600.0
+Impala,Chevrolet,39367,7100.0
+Charger,Dodge,8351,4500.0
+Sprinter,Dodge,106689,2740.0
+Sprinter,Mercedes-Benz,38120,28500.0
+Cordoba,Chrysler,103380,1730.0
+F-250,Ford,147367,14000.0
+Nova,Chevrolet,7314,9900.0
+Ram 1500,Dodge,41374,500.0
+F-2500,Ram,62269,940.0
+Transit Connect,Ford,67193,3550.0
+Other,Toyota,13530,6800.0
+Model T,Ford,129969,21000.0
+CJ,Jeep,34684,1280.0
+Fusion,Ford,17707,5950.0
+GTC,Puma,46100,3500.0
+Bus/Vanagon,Volkswagen,87723,34900.0
+CJ,Jeep,145571,6000.0
+Bus/Vanagon,Volkswagen,145735,19350.0
+Town Car,Lincoln,153922,6850.0
+3-Series,BMW,39346,2080.0
+Kizashi,Suzuki,84873,5900.0
+Optima,Kia,14099,6000.0
+3-Series,BMW,14077,3950.0
+E-Series Van,Ford,99962,4050.0
+H1,Hummer,39464,1700.0
+CJ,Jeep,152902,8400.0
+Chevelle,Chevrolet,33787,27500.0
+Ram 2500,Dodge,58171,8500.0
+60 Special,Cadillac,92475,9500.0
+Grand National,Buick,80139,2500.0
+Meteor,Mercury,87683,5600.0
+F-350,Ford,33731,1800.0
+F-450,Ford,45508,5900.0
+4Runner,Toyota,76082,6100.0
+Chevy,Chevrolet,81731,18900.0
+Cayman,Porsche,63220,12100.0
+Impala,Chevrolet,132002,2550.0
+C/K Pickup 1500,Chevrolet,33597,11300.0
+C-10,Chevrolet,4246,5600.0
+F-250,Ford,75208,5950.0
+CJ,Jeep,76527,9010.0
+Mustang,Ford,69253,12000.0
+Suburban,GMC,80779,3050.0
+Mustang,Ford,73831,12900.0
+Continental,Lincoln,51723,10100.0
+Wrangler,Jeep,143243,10100.0
+B-Series Pickups,Mazda,16756,2430.0
+B-Series Pickups,Mazda,9082,2130.0
+EuroVan,Volkswagen,29058,1530.0
+Impala,Chevrolet,32549,2800.0
+F-150,Ford,115687,820.0
+Mustang,Ford,82845,9200.0
+Scout,International Harvester,61475,2000.0
+Bel Air/150/210,Chevrolet,60504,1700.0
+Duster,Plymouth,80211,7000.0
+f900,Ford,2373,3600.0
+J10,Jeep,126560,8000.0
+Mustang,Ford,10774,13900.0
+7-Series,BMW,47031,3500.0
+Crown Victoria,Ford,143210,28100.0
+Chevelle,Chevrolet,141150,10500.0
+Corvette,Chevrolet,116223,12100.0
+XC90,Volvo,32821,19940.0
+XTS,Cadillac,65535,3500.0
+Evoque,Land Rover,95815,10500.0
+Accord,Honda,45756,1750.0
+3 Window Coupe,Ford,41596,16600.0
+Karmann Ghia,Volkswagen,42942,1580.0
+Brookwood,Chevrolet,96135,8100.0
+F-350,Ford,111363,6000.0
+XC90,Volvo,113551,400.0
+Integra,Acura,119355,15100.0
+7-Series,BMW,143681,14000.0
+Wrangler,Jeep,146666,36200.0
+E-Series Van,Ford,88420,4000.0
+Explorer,Ford,96481,1080.0
+Corvette,Chevrolet,96480,16100.0
+Escape,Ford,77855,11000.0
+F-150,Ford,77942,14100.0
+F-250,Ford,59997,7600.0
+F-250,Ford,108809,9600.0
+Silverado 3500,Chevrolet,59963,7200.0
+Sentra,Nissan,77854,5210.0
+Yukon,GMC,67338,680.0
+X5,BMW,92819,1530.0
+Corvette,Chevrolet,111666,4100.0
+C/K Pickup 1500,Chevrolet,71515,2000.0
+Viper,Dodge,117790,24200.0
+Mustang,Ford,46440,15200.0
+Bel Air/150/210,Chevrolet,94694,5150.0
+CJ,Jeep,64667,4700.0
+Civic,Honda,56968,4600.0
+Ram 1500,Dodge,67204,800.0
+Allante,Cadillac,49536,2800.0
+Cherokee,Jeep,49615,5100.0
+Montero,Mitsubishi,49535,2500.0
+Trooper,Isuzu,67218,4650.0
+S-Class,Mercedes-Benz,67219,3150.0
+E-Class,Mercedes-Benz,105446,6000.0
+Cutlass,Oldsmobile,88160,15650.0
+F-350,Ford,3625,2550.0
+Corvair,Chevrolet,39270,5800.0
+Cherokee,Jeep,137169,1030.0
+Viper,Dodge,139764,26800.0
+Thunderbird,Ford,139395,5250.0
+Thunderbird,Ford,139639,4700.0
+Corvette,Chevrolet,139596,6400.0
+Fiero,Pontiac,138666,3250.0
+Wrangler,Jeep,139661,8000.0
+Corvette,Chevrolet,115695,5400.0
+Challenger,Dodge,139330,12100.0
+Ranchero,Ford,138757,7330.0
+Scamp,Plymouth,42021,7000.0
+Mustang,Ford,111629,2430.0
+Xterra,Nissan,111633,710.0
+5-Series,BMW,30549,2130.0
+Fiero,Pontiac,12904,4470.0
+Camaro,Chevrolet,115235,3000.0
+Plus Four,Morgan,91427,26790.0
+Bronco II,Ford,78680,6800.0
+CJ,Jeep,35345,7400.0
+Beetle - Classic,Volkswagen,31042,510.0
+Sierra 2500,GMC,130737,3500.0
+Fiesta,Ford,514,6000.0
+Mazda3,Mazda,48314,2250.0
+N912,Porsche,160394,5850.0
+Fairlane,Ford,115989,26000.0
+Mustang,Ford,142169,8300.0
+Mustang,Ford,142711,7000.0
+G T O,PONTlAC,41533,18400.0
+Tahoe,Chevrolet,78242,5500.0
+Mark Series,Lincoln,40450,11900.0
+F-150,Ford,57952,20500.0
+Mustang,Ford,68902,7200.0
+G35,Infiniti,126723,1000.0
+Neon,Dodge,92951,200.0
+Wrangler,Jeep,102524,8800.0
+E-Series Van,Ford,145838,1200.0
+Allante,Cadillac,144807,2550.0
+Corvette,Chevrolet,121797,6450.0
+Crown Victoria,Ford,94578,2130.0
+3-Series,BMW,151480,6600.0
+M6,BMW,151977,16400.0
+M3,BMW,14253,10000.0
+SL-Class,Mercedes-Benz,36822,2360.0
+N911,Porsche,94114,30600.0
+N911,Porsche,94592,48600.0
+N911,Porsche,151903,17600.0
+N911,Porsche,14195,34540.0
+Cayenne,Porsche,121952,12450.0
+N308,Ferrari,95134,39100.0
+N348,Ferrari,14907,40600.0
+N355,Ferrari,28434,52500.0
+3-Series,BMW,130574,7500.0
+Corvair,Chevrolet,88056,6000.0
+M45,Infiniti,35286,410.0
+Other Pickups,Nissan,100937,700.0
+Supra,Toyota,12083,17100.0
+Accord,Honda,130810,1200.0
+4Runner,Toyota,110943,3550.0
+J10,Jeep,146070,12000.0
+LS,Lexus,7491,6900.0
+HHR,Chevrolet,18210,2850.0
+Challenger,Dodge,39255,45000.0
+Gallardo,Lamborghini,130267,100300.0
+Defender,Land Rover,126465,22000.0
+300TD,Mercedes-Benz,145607,2500.0
+3-Series,BMW,86749,8300.0
+Bonneville,Pontiac,142546,10870.0
+Blazer,Chevrolet,139843,700.0
+N308,Ferrari,36638,38000.0
+Comet,Mercury,62467,6500.0
+Land Cruiser,Toyota,82380,470.0
+Other Pickups,Dodge,143643,3500.0
+Commander,Jeep,154570,9700.0
+Spider,Alfa Romeo,36233,8430.0
+Camaro,Chevrolet,131077,1000.0
+Other,International Harvester,2494,1600.0
+Other Pickups,Chevrolet,2590,1600.0
+F-150,Ford,100265,2860.0
+Other,International Harvester,19529,5000.0
+Herald,Triumph,108226,300.0
+Impala,Chevrolet,1835,19300.0
+Fleetwood,Cadillac,98530,5200.0
+C-10,Chevrolet,17373,9010.0
+Corvette,Chevrolet,45362,7500.0
+Trailblazer,Chevrolet,115354,2980.0
+El Camino,Chevrolet,139221,10900.0
+InsertionEnd
+17
+hashLoadFactor
+hashDisplay
+hashSearch,XK8,Jaguar,129794
+hashSearch,60 Special,Cadillac,92475
+hashSearch,El Camino,Chevrolet,139221
+hashSearch,XK8,Jaguar,165400
+hashDelete,XK8,Jaguar,165408
+hashDelete,XK8,Jaguar,129794
+hashDelete,3-Series,BMW,86749
+hashDelete,Wrangler,Jeep,139661
+hashDelete,C-10,Chevrolet,36233
+hashDelete,F-250,Ford,108809
+hashDelete,Accord,Honda,61535
+hashDelete,Mustang,Ford,132281
+hashDelete,Corvette,Chevrolet,115695
+hashLoadFactor
+hashDisplay

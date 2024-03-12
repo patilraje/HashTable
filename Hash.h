@@ -116,7 +116,7 @@ bool Hash::hashDelete(string model, string make, int vin)
 	//it prints NOT found and deletes it, so a value was being overridden
 	hashSearch(model, make, vin); //check if it exists and let the user know if it is found
 
-	int hashValue = hashFunction(model + make + to_string(vin)); //calculate hash value : concatenates all car details 
+	int hashValue = hashFunction(model + make + to_string(vin)); //calculate hash value : concatenates all car details
 																//together and calling hash function to calculate the key
 	bool del = hashTable[hashValue].deleteCar(vin); //call delete function from linked list file
 
@@ -144,7 +144,7 @@ bool Hash::hashDelete(string model, string make, int vin)
 
 
 
-//This function computes your hash table real load factor
+//This function computes the hash table real load factor
 //it is the longest linked list size
 //CHANGED FROM INT TO VOID
 void Hash::hashLoadFactor()
@@ -187,9 +187,9 @@ void Hash::hashDisplay()
 //string key, the function should return the slot number
 //where we will hash the key to
 //HASH KEY DRIVER********
-//this function adds the ASCII value of all elements in the key, and then at the end adds the length of the key 
+//this function adds the ASCII value of all elements in the key, and then at the end adds the length of the key
 //to this value, which is then moded by the size of the hash table
-//i started with analyzing Dr. Feng's output trying to reverse engineer it and 
+//i started with analyzing Dr. Feng's output trying to reverse engineer it and
 //this is the closest I could get with some values
 int Hash::hashFunction(string key)
 {

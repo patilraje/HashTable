@@ -1,7 +1,7 @@
 
 // ASU CSE310 Assignment #5 Spring 2024
-// Name of Author:
-// ASU ID:
+// Name of Author: Raje Patil
+// ASU ID: 1231031453
 // Description: this is the main program that reads input from a text file,
 // it then call hash functions to execute hash commands given in the input.
 // ---- is where you need to add your own code
